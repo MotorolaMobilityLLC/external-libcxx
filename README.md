@@ -1,2 +1,0 @@
-# external-libcxx
-Motorola libcxx
