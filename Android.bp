@@ -143,6 +143,8 @@ cc_library_shared {
             enabled: true,
         },
     },
+    // UNISOC: Opt out of native_coverage when opting out of system_shared_libs
+    native_coverage: false,
 }
 
 cc_library_static {
